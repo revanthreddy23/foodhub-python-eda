@@ -89,9 +89,9 @@ The dataset contains order-level information such as:
 
 ## 📁 Repository Structure
 
+```text
 FoodHub-EDA/
 ├── RevanthReddyKondapalli_FoodHub.ipynb
 ├── RevanthReddyKondapalli_FoodHub.html
 └── README.md
-
-
+```
